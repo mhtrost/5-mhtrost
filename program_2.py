@@ -17,5 +17,4 @@ print("------")
 
 answer = float(input("Please enter in your answer: "))
 
-while True:
-    addition_of_two_numbers(num1, num2, answer)
+addition_of_two_numbers(num1, num2, answer)
